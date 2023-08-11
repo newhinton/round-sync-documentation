@@ -1,0 +1,17 @@
+[book]
+authors = ["Felix Nüsse"]
+language = "en"
+multilingual = false
+src = "src"
+title = "RoundSync Documentation"
+
+
+[output.html]
+
+#theme = "my-theme"
+default-theme = "light"
+preferred-dark-theme = "navy"
+
+git-repository-url = "https://github.com/rust-lang/mdBook"
+git-repository-icon = "fa-github"
+edit-url-template = "https://github.com/rust-lang/mdBook/edit/master/guide/{path}"
