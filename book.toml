@@ -12,6 +12,6 @@ title = "RoundSync Documentation"
 default-theme = "light"
 preferred-dark-theme = "navy"
 
-git-repository-url = "https://github.com/rust-lang/mdBook"
+git-repository-url = "https://github.com/newhinton/round-sync-documentation"
 git-repository-icon = "fa-github"
-edit-url-template = "https://github.com/rust-lang/mdBook/edit/master/guide/{path}"
+edit-url-template = "https://github.com/newhinton/round-sync-documentation/edit/master/{path}"
