@@ -14,6 +14,7 @@
 
 
 - [License](./License.md)
+- [Privacy Policy](./privacy.md)
 
 
 
