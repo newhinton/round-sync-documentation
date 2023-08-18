@@ -23,7 +23,7 @@ Assuming you are in the folder where you extracted `rclone.conf` to, you can use
 
 It is also possible to manually edit the configuration via text-editor.
 
-When you made all those changes, transfer the configuration file back to your device. Please follow [the import guide](usage-export.md#eimport) to restore the changed config.
+When you made all those changes, transfer the configuration file back to your device. Please follow [the import guide](usage-export.md#import) to restore the changed config.
 
 
 # Warning

@@ -1,0 +1,51 @@
+.sidebar .sidebar-scrollbox {
+    position: initial;
+}
+
+.sidebar-logo {
+    margin: 20px auto;
+    width: 80%;
+    text-align: center;
+    font-family: gidole;
+    font-size: large;
+}
+
+.main-logo {
+    height: 20vh;
+}
+
+.sidebar-quicklinks {
+    display: flex;
+    justify-content: center;
+}
+
+.sidebar-quicklinks-icon {
+    color: #4aad4e;
+    padding: 10px;
+    font-size: 1.5em;
+}
+
+
+details {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 1px solid #aaa;
+    border-radius: 4px;
+    padding: 0.5em 0.5em 0;
+  }
+  
+  summary {
+    font-weight: bold;
+    margin: -0.5em -0.5em 0;
+    padding: 0.5em;
+  }
+  
+  details[open] {
+    padding: 0.5em;
+  }
+  
+  details[open] summary {
+    border-bottom: 1px solid #aaa;
+    margin-bottom: 0.5em;
+  }
+  
