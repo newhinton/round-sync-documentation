@@ -11,7 +11,8 @@
 }
 
 .main-logo {
-    height: 20vh;
+    height: 15vh;
+    max-width: 15vh;
 }
 
 .sidebar-quicklinks {

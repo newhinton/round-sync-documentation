@@ -11,7 +11,7 @@
 - [Development](./Development.md)
 
 
-- [Frequent Questions](./FAQ.md)
+- [FAQ](./FAQ.md)
 
 
 [Round Snyc App License](./licenses/License.md)
