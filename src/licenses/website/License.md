@@ -125,3 +125,12 @@ DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
 OTHER DEALINGS IN THE FONT SOFTWARE.
 </details>
+
+
+
+
+<details class="license-details">
+  <summary>mdBook Pagelayout by JorelAli</summary>
+    https://github.com/JorelAli/mdBook-pagetoc
+</details>
+

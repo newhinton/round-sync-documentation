@@ -20,4 +20,8 @@
 [Privacy Policy](./privacy.md)
 
 
+[Copyright Note](./copyright.md)
+
+
+
 
