@@ -8,8 +8,8 @@ title = "Round Sync Documentation"
 
 [output.html]
 
-default-theme = "rust"
-preferred-dark-theme = "coal"
+default-theme = "rs-light"
+preferred-dark-theme = "rs-dark"
 
 git-repository-url = "https://github.com/newhinton/round-sync-documentation"
 git-repository-icon = "fa-github"

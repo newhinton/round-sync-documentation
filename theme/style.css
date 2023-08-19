@@ -21,32 +21,143 @@
 }
 
 .sidebar-quicklinks-icon {
-    color: #4aad4e;
     padding: 10px;
     font-size: 1.5em;
 }
 
+#menu-bar.bordered {
+  border-bottom: none;
+  box-shadow: 0 0 20px rgb(0 0 0 / 20%) !important;
+}
+
+/* 
+ * https://stackoverflow.com/questions/2717480/css-selector-for-first-element-with-class/8539107#8539107
+ * Select all .affix children of .chapter, including the first one
+ */
+.chapter > .affix {
+    margin-top: 3em !important;
+}
+/* 
+ * Select all but the first .affix child of .chapter
+ * and reset the padding
+ */
+.chapter > .affix ~ .affix {
+  margin-top: 0.6em !important;
+}
+
 
 details {
-    margin-top: 5px;
-    margin-bottom: 5px;
-    border: 1px solid #aaa;
-    border-radius: 4px;
-    padding: 0.5em 0.5em 0;
-  }
+  margin-top: 5px;
+  margin-bottom: 5px;
+  border: 1px solid #aaa;
+  border-radius: 4px;
+  padding: 0.5em 0.5em 0;
+}
   
-  summary {
-    font-weight: bold;
-    margin: -0.5em -0.5em 0;
-    padding: 0.5em;
-  }
+summary {
+  font-weight: bold;
+  margin: -0.5em -0.5em 0;
+  padding: 0.5em;
+}
   
-  details[open] {
-    padding: 0.5em;
-  }
+details[open] {
+  padding: 0.5em;
+}
   
-  details[open] summary {
-    border-bottom: 1px solid #aaa;
-    margin-bottom: 0.5em;
-  }
-  
+details[open] summary {
+  border-bottom: 1px solid #aaa;
+  margin-bottom: 0.5em;
+}
+
+textarea:focus, input:focus{
+    outline: none;
+}
+
+.rs-dark {
+  --bg: hsl(200, 8.1%, 14.5%);
+  --fg: #98a3ad;
+
+  --sidebar-bg: #292c2f;
+  --sidebar-fg: #a1adb8;
+  --sidebar-non-existant: #505254;
+  --sidebar-active: #4aad4e;
+  --sidebar-spacer: #393939;
+
+  --scrollbar: var(--sidebar-fg);
+
+  --icons: #43484d;
+  --icons-hover: #4aad4e;
+
+  --links: #4aad4e;
+
+  --inline-code-color: #fcfffdf7;
+
+  --theme-popup-bg: #141617;
+  --theme-popup-border: #43484d;
+  --theme-hover: #1f2124;
+
+  --quote-bg: hsl(234, 21%, 18%);
+  --quote-border: hsl(234, 21%, 23%);
+
+  --table-border-color: hsl(200, 7%, 13%);
+  --table-header-bg: hsl(200, 7%, 28%);
+  --table-alternate-bg: hsl(200, 7%, 11%);
+
+  --searchbar-border-color: #aaa;
+  --searchbar-bg: #b7b7b7;
+  --searchbar-fg: #000;
+  --searchbar-shadow-color: #aaa;
+  --searchresults-header-fg: #666;
+  --searchresults-border-color: #98a3ad;
+  --searchresults-li-bg: #2b2b2f;
+  --search-mark-bg: #355c7d;
+
+  --color-scheme: dark;
+}
+.rs-dark .hljs {
+  background: #717171;
+  color: var(--inline-code-color);
+}
+
+
+.rs-light {
+  --bg: hsl(210, 1.9%, 78.8%);
+  --fg: #4b5359;
+
+  --sidebar-bg: #292c2f;
+  --sidebar-fg: #a1adb8;
+  --sidebar-non-existant: #505254;
+  --sidebar-active: #4aad4e;
+  --sidebar-spacer: #393939;
+
+  --scrollbar: var(--sidebar-fg);
+
+  --icons: #43484d;
+  --icons-hover: #4aad4e;
+
+  --links: #569f59;
+
+  --inline-code-color: #454f48f7;
+
+  --theme-popup-bg: #e6e6e6;
+  --theme-popup-border: #43484d;
+  --theme-hover: #c1bcbc;
+
+  --quote-bg: hsl(234, 21%, 18%);
+  --quote-border: hsl(234, 21%, 23%);
+
+  --table-border-color: hsl(200, 7%, 13%);
+  --table-header-bg: hsl(200, 7%, 28%);
+  --table-alternate-bg: hsl(200, 7%, 11%);
+
+  --searchbar-border-color: #aaa;
+  --searchbar-bg: #b7b7b7;
+  --searchbar-fg: #000;
+  --searchbar-shadow-color: #aaa;
+  --searchresults-header-fg: #666;
+  --searchresults-border-color: #98a3ad;
+  --searchresults-li-bg: #2b2b2f;
+  --search-mark-bg: #355c7d;
+
+  --color-scheme: light;
+}

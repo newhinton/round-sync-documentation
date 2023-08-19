@@ -17,10 +17,10 @@
 [Round Snyc App License](./licenses/License.md)
 [Round Snyc Documentation License](./licenses/website/License.md)
 
-[Privacy Policy](./privacy.md)
+[Round Snyc Privacy Policy](./privacy.md)
 
 
-[Copyright Note](./copyright.md)
+[Imprint](./copyright.md)
 
 
 
