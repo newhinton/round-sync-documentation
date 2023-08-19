@@ -1,14 +1,22 @@
 # Summary
 
 - [Introduction](./Introduction.md)
-    - [History](./History.md)
+    - [History](./intro/History.md)
+    - [Who am I?](./intro/whoami.md)
     - [What is Rclone?](./rclone.md)
 - [Usage](./usage.md)
-    - [SAF/Android File Explorer](./usage/saf.md)
+    - [Getting Started](./usage/start.md)
     - [Rclone Configuration](./usage/config.md)
     - [Import/Export](./usage/export.md)
+    - [Access from other Apps](./usage/fromoutside.md)
+    - [SAF/Android File Explorer](./usage/saf.md)
  
 - [Development](./Development.md)
+    - [Reporting Bugs](./dev/bugs.md)
+    - [Suggesting Features](./dev/features.md)
+    - [Translations](./dev/translate.md)
+    - [Development Setup](./dev/devenv.md)
+    - [Roadmap](./dev/saf.md)
 
 
 - [FAQ](./FAQ.md)
