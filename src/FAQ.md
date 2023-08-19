@@ -21,10 +21,13 @@ You can find the ticket here:
 
 
 ## I cant figure out how to set up my remote with a specific setting.
-That is not a question. Who is writing those questions?
+That is not a question. Who is writing his FAQ?
 
-However, you can see [here](./usage/config.md) how you can manually edit a configuration.
+Anyway, you can see [here](./usage/config.md) how you can manually edit a configuration.
 
+## Can i edit a remote?
+No. This is currently not supported. However, you can edit a remote with a pc of your choice.
+For that, please refer to [this section about configuration.](./usage/config.md)
 
 ## Can you implement X?
 
