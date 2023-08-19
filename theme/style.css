@@ -1,5 +1,10 @@
+.sidebar {
+  display: flex;
+  flex-flow: column;
+}
+
 .sidebar .sidebar-scrollbox {
-    position: initial;
+  position: initial;
 }
 
 .sidebar-logo {
