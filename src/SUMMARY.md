@@ -14,10 +14,10 @@
 - [FAQ](./FAQ.md)
 
 
-[Round Snyc App License](./licenses/License.md)
-[Round Snyc Documentation License](./licenses/website/License.md)
+[App License](./licenses/License.md)
+[Documentation Licenses](./licenses/website/License.md)
 
-[Round Snyc Privacy Policy](./privacy.md)
+[Privacy Policy](./privacy.md)
 
 
 [Imprint](./copyright.md)
