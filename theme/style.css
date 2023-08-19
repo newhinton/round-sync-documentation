@@ -8,11 +8,14 @@
 }
 
 .sidebar-logo {
-    margin: 20px auto;
-    width: 80%;
-    text-align: center;
-    font-family: gidole;
-    font-size: large;
+  padding: 20px;
+  text-align: center;
+  font-family: gidole;
+  font-size: large;
+}
+
+.sidebar-logo {
+  box-shadow:-10px 5px 20px 0 rgba(0,0,0,0.20) !important;
 }
 
 .main-logo {
@@ -32,7 +35,7 @@
 
 #menu-bar.bordered {
   border-bottom: none;
-  box-shadow: 0 0 20px rgb(0 0 0 / 20%) !important;
+  box-shadow: 10px 5px 20px 0 rgba(0,0,0,0.20) !important;
 }
 
 /* 
