@@ -24,13 +24,27 @@
 }
 
 .sidebar-quicklinks {
-    display: flex;
-    justify-content: center;
+  display: flex;
+  justify-content: center;
 }
 
 .sidebar-quicklinks-icon {
-    padding: 10px;
-    font-size: 1.5em;
+  color: var(--links);
+  padding: 0.5em !important;
+  font-size: 1.5em !important;
+}
+
+.sidebar-quicklinks-icon:hover {
+  padding-left: 0.4em !important;
+  padding-right: 0.4em !important;
+  padding-top: 0.3em !important;
+  padding-bottom: 0.3em !important;
+
+  font-size: 1.7em !important;
+}
+
+.sidebar-quicklinks-icon:visited {
+  color: var(--links);
 }
 
 #menu-bar.bordered {
@@ -135,15 +149,15 @@ textarea:focus, input:focus{
   --sidebar-bg: #292c2f;
   --sidebar-fg: #a1adb8;
   --sidebar-non-existant: #505254;
-  --sidebar-active: #4aad4e;
+  --sidebar-active: #318e35;
   --sidebar-spacer: #393939;
 
   --scrollbar: var(--sidebar-fg);
 
   --icons: #43484d;
-  --icons-hover: #4aad4e;
+  --icons-hover: #318e35;
 
-  --links: #569f59;
+  --links: #318e35;
 
   --inline-code-color: #454f48f7;
 
@@ -168,4 +182,26 @@ textarea:focus, input:focus{
   --search-mark-bg: #355c7d;
 
   --color-scheme: light;
+}
+
+.donation-pictogram {
+  display: flex;
+  height: 5vh;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.donation-pictogram img {
+  height: 5vh;
+}
+
+.donation-pictogram p{
+  margin-left: 15px;
+}
+
+.fa-2 {
+  font-size: 2em !important;
+} 
+.fa-3 {
+  font-size: 2.5em !important;
 }

@@ -134,3 +134,16 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
     https://github.com/JorelAli/mdBook-pagetoc
 </details>
 
+<details class="license-details">
+  <summary>Paypal - Logo</summary>
+    https://newsroom.paypal-corp.com/media-resources
+</details>
+
+<details class="license-details">
+  <summary>Liberapay - Logo</summary
+    CC0 Public Domain Dedication
+    https://liberapay.com/about/logos
+</details>
+
+
+

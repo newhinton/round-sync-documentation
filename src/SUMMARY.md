@@ -3,7 +3,7 @@
 - [Introduction](./Introduction.md)
     - [History](./intro/History.md)
     - [Who am I?](./intro/whoami.md)
-    - [What is Rclone?](./rclone.md)
+    - [What is Rclone?](./intro/rclone.md)
 - [Usage](./usage.md)
     - [Getting Started](./usage/start.md)
     - [Rclone Configuration](./usage/config.md)
