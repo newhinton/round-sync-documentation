@@ -3,86 +3,50 @@
 
 <svg
    version="1.1"
-   id="svg54721"
+   id="svg54835"
    width="176.38309"
    height="176.28828"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs54725">
-    <rect
-       x="33.421387"
-       y="38.566631"
-       width="105.90279"
-       height="105.71235"
-       id="rect39801" />
-    <rect
-       x="80.52224"
-       y="71.24437"
-       width="70.401474"
-       height="58.682781"
-       id="rect3271" />
-  </defs>
-  <sodipodi:namedview
-     id="namedview54723"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0" />
-  <inkscape:clipboard
-     min="8.0326767,9.3785629"
-     max="184.41576,185.66685"
-     geom-min="8.0326767,9.3785629"
-     geom-max="184.41576,185.66685" />
-  <g
-     id="g54729"
-     transform="translate(-8.0326767,-9.3785629)">
-    <ellipse
-       style="fill:#4aad4e;fill-opacity:1;stroke-width:4.89616"
-       id="path1601"
-       cx="96.22422"
-       cy="97.522705"
-       rx="88.191544"
-       ry="88.144142" />
-    <text
-       xml:space="preserve"
-       id="text3269"
-       style="font-style:normal;font-weight:normal;font-size:96px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect3271);fill:#000000;fill-opacity:1;stroke:none"><tspan
-         x="80.521484"
-         y="217.27575"
-         id="tspan54833"><tspan
-           dx="0 46.143883"
-           style="font-weight:300;font-size:74.6667px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';fill:#ffffff"
-           id="tspan54831">RS</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
-       x="48.437157"
-       y="62.735832"
-       id="text31115"><tspan
-         sodipodi:role="line"
-         id="tspan31113"
-         x="48.437157"
-         y="62.735832" /></text>
-    <text
-       xml:space="preserve"
-       id="text39799"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect39801);fill:#000000;fill-opacity:1;stroke:none" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:88.408px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.03603"
-       x="44.438076"
-       y="125.68409"
-       id="text43767"
-       transform="scale(0.98392155,1.0163412)"><tspan
-         sodipodi:role="line"
-         id="tspan43765"
+   <defs
+      id="defs54839" />
+   <sodipodi:namedview
+      id="namedview54837"
+      pagecolor="#ffffff"
+      bordercolor="#666666"
+      borderopacity="1.0"
+      inkscape:pageshadow="2"
+      inkscape:pageopacity="0.0"
+      inkscape:pagecheckerboard="0" />
+   <inkscape:clipboard
+      min="8.0326767,9.3785629"
+      max="184.41576,185.66685"
+      geom-min="8.0326767,9.3785629"
+      geom-max="184.41576,185.66685" />
+   <g
+      id="g54841"
+      transform="translate(-8.0326767,-9.3785629)">
+      <ellipse
+         style="fill:#4aad4e;fill-opacity:1;stroke-width:4.89616"
+         id="path1601"
+         cx="96.22422"
+         cy="97.522705"
+         rx="88.191544"
+         ry="88.144142" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:88.408px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.03603"
          x="44.438076"
          y="125.68409"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:88.408px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';fill:#ffffff;stroke-width:1.03603">RS</tspan></text>
-  </g>
-</svg>
+         id="text43767"
+         transform="scale(0.98392155,1.0163412)"><tspan
+            sodipodi:role="line"
+            id="tspan43765"
+            x="44.438076"
+            y="125.68409"
+            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:88.408px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';fill:#ffffff;stroke-width:1.03603">RS</tspan></text>
+      </g>
+   </svg>
+   
