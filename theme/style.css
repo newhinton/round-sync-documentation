@@ -18,6 +18,21 @@
   box-shadow:-10px 5px 20px 0 rgba(0,0,0,0.20) !important;
 }
 
+
+.intro-logo {
+  padding: 20px;
+  text-align: center;
+  font-family: gidole;
+  font-size: large;
+}
+
+@media only screen and (min-device-width: 1000px){
+  .intro-logo {
+    display: none;
+  }
+}
+
+
 .main-logo {
     height: 15vh;
     max-width: 15vh;

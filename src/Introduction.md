@@ -1,3 +1,23 @@
+<div class="intro-logo">
+    <img class="main-logo" src="favicon.svg" alt="Round-Sync Logo">
+    <br>
+    <br>
+    <div class="sidebar-quicklinks">
+        <a href="https://github.com/newhinton/Round-Sync" title="Git repository" aria-label="Git repository">
+            <i class="sidebar-quicklinks-icon fa fa-github"></i>
+        </a>
+        <a href="https://liberapay.com/newhinton" title="Donate - Liberapay" aria-label="Donate - Liberapay">
+            <i class="sidebar-quicklinks-icon fa fa-liberapay"></i>
+        </a>
+        <a href="https://www.paypal.me/felixnuesse" title="Donate - Paypal" aria-label="Donate - Paypal">
+            <i class="sidebar-quicklinks-icon fa fa-paypal"></i>
+        </a>
+        <a href="https://github.com/sponsors/newhinton/" title="Donate - Github Sponsors" aria-label="Donate - Github Sponsors">
+            <i class="sidebar-quicklinks-icon fa fa-github-alt"></i>
+        </a>
+    </div>
+</div>
+
 # Introduction
 ---
 
