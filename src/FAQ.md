@@ -1,4 +1,5 @@
 # Frequently Asked Questions
+---
 
 
 ## Is it available in Google Play?
@@ -34,7 +35,7 @@ For that, please refer to [this section about configuration.](./usage/config.md)
 Maybe, head over to [the issue tracker](https://github.com/newhinton/Round-Sync/issues/) and open a ticket! We can discuss your ideas there.
 
 
-# Can i donate?
+## Can i donate?
 
 Sure! Any help is appreciated:
 
