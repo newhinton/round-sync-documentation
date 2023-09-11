@@ -26,3 +26,9 @@ Welcome! This is the documentation for Round Sync!
 
 
 Round Sync is a versatile android application that makes use of the venerable [Rclone](https://rclone.org/). This allows you to interact with all your favorite Cloud-Providers in an easy-to-use app! We even allow you to automate some of the more tedious tasks!
+
+
+
+
+Anyone is welcome to contribute and help out. However, hate, discrimination and racism are decidedly unwelcome here. If you feel offended by this, you might belong to the group of people who are not welcome. I will not tolerate hate in any way.
+🇺🇦🏳️‍⚧🏳️‍🌈
