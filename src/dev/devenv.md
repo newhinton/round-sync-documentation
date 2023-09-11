@@ -31,6 +31,8 @@ Follow the instructions here: [Install Go](https://go.dev/learn/)
 
 You will also need to set up the environmental variables so that the go-executable can be found in `GOPATH`.
 
+The minimum required go version is 1.19. We currently use 1.21.1.
+
 ## NDK
 
 To embedd the rclone-binary in the app, you will need the ndk. Please install it via Android Studio in the correct version.
