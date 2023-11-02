@@ -27,8 +27,7 @@ That is not a question. Who is writing his FAQ?
 Anyway, you can see [here](./usage/config.md) how you can manually edit a configuration.
 
 ## Can i edit a remote?
-No. This is currently not supported. However, you can edit a remote with a pc of your choice.
-For that, please refer to [this section about configuration.](./usage/config.md)
+Yes! The ability to edit a remote was added with the dynamic config provider. You can now choose to edit a remote via the three-dot-menu in the remote list. However, you cannot rename a remote for techical reasons.
 
 ## Can you implement X?
 
