@@ -2,7 +2,7 @@
 
 
 ## Android Studio
-At the moment, translations are only possible via the Android Studio String-Editor.
+The easiest way to edit translations is via the Android Studio Translations-Editor. You can open it by navigating to the `res`-folder in the project view (left sidebar). In there, select the `values` folder and open the `strings.xml`. Android Studio will now ask you to use the Editor. Select `Open editor` in the upper-right corner.
 
 
 ## Manually
