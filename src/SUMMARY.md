@@ -21,6 +21,8 @@
 
 - [FAQ](./FAQ.md)
 
+- [Donations](./Donations.md)
+
 
 [App License](./licenses/License.md)
 [Documentation Licenses](./licenses/website/License.md)
