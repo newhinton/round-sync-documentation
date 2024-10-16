@@ -1,9 +1,9 @@
 # Who am I?
 ---
 
-I am a computer sience student that does software development in his free time. I like open formats, and rclone makes accessing different protocols as easy as it gets. With Round Sync i am trying to make rclone as accessible as possible on android. Since i forked rcx, i was able to make substantial progress of achieving this goal.
+I am a computer science student who does software development in his free time. I like open formats, and rclone makes accessing different protocols as easy as it gets. With Round Sync, I am trying to make rclone as accessible as possible on Android. Since I forked rcx, I was able to make substantial progress in achieving this goal.
 
-Since i am doing this in my free time, any help is appreciated. This can be in form of contributions(Like reporting bugs or contributing code), but if you want to make a donation, you are more than welcome!
+Since I am doing this in my free time, any help is appreciated. This can be in the form of contributions (like reporting bugs or contributing code), but if you want to make a donation, you are more than welcome!
 
 
 
