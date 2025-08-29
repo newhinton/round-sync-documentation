@@ -15,11 +15,7 @@ However, the f-droid version will be free (and stay free!). I also provide sourc
 
 ## Is it available in F-Droid?
 
-Sadly no. There is currently an ongoing issue which prevents me from releasing. I am tracking this and will update the corresponsive github-ticket when i have more information.
-
-You can find the ticket here:
-[Github.com: Publish on F-Droid #1](https://github.com/newhinton/Round-Sync/issues/1)
-
+Yes. Here is the [F-Droid package page](https://f-droid.org/en/packages/de.felixnuesse.extract/).
 
 ## I cant figure out how to set up my remote with a specific setting.
 That is not a question. Who is writing his FAQ?
